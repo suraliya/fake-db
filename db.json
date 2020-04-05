@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": 1,
+    "code": "P001",
+    "name": "PRODUCT0001",
+    "description": "Test Description",
+    "category": "CAT01",
+    "price": 156.21,
+    "qty": 500,
+  }
+]
